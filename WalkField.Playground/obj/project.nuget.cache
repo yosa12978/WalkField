@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5ZzMqpZjN4MwQgdXzv70m9RqRGumsKV1khldXcL2rA+Uk6M7HjH8rwzu9lj8ILy1h3bkrymi8KBY59nmdRFJg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\WalkField\\WalkField.Playground\\WalkField.Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

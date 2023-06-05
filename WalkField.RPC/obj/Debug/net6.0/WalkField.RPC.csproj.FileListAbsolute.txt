@@ -1,0 +1,12 @@
+D:\Programs\WalkField\WalkField.RPC\bin\Debug\net6.0\WalkField.RPC.deps.json
+D:\Programs\WalkField\WalkField.RPC\bin\Debug\net6.0\WalkField.RPC.dll
+D:\Programs\WalkField\WalkField.RPC\bin\Debug\net6.0\WalkField.RPC.pdb
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.csproj.AssemblyReference.cache
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.AssemblyInfoInputs.cache
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.AssemblyInfo.cs
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.csproj.CoreCompileInputs.cache
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.dll
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\refint\WalkField.RPC.dll
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\WalkField.RPC.pdb
+D:\Programs\WalkField\WalkField.RPC\obj\Debug\net6.0\ref\WalkField.RPC.dll
